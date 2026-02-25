@@ -1,6 +1,7 @@
 # Icro Gomes
 
-Me chamo Icro Gomes de Souza, tenho 19 anos e sou natural do São João do Oriente. Concluí o ensino médio no EEVOR. Atualmente, estou cursando Engenharia de Sofware na UNESA.Gosto muito de tecnologia, e também através do Instagram, com o perfil chamado "[icrogoo](https://www.instagram.com/icrogoo/)".
+Me chamo Icro Gomes de Souza, tenho 19 anos e sou natural do São João do Oriente. Concluí o ensino médio no EEVOR. Atualmente, estou cursando ADS
+na UNESA.Gosto muito de tecnologia, e também através do Instagram, com o perfil chamado "[icrogoo](https://www.instagram.com/icrogoo/)".
 
 ### 🤖 Linguagens e Tecnologias
 
